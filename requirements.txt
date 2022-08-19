@@ -16,7 +16,6 @@ kiwisolver
 MarkupSafe
 matplotlib
 numpy
-nltk
 oauthlib
 pandas
 Pillow

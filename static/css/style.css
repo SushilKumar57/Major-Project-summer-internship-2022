@@ -300,6 +300,20 @@ section{
     -webkit-box-shadow:4rem 4rem 0 rgba(0, 0, 0, 0.1);
     box-shadow:4rem 4rem 0 rgba(0, 0, 0, 0.1);
 }
+
+.about .video{
+    -webkit-box-flex: 1;
+    -ms-flex:1 1 42rem;
+    flex:1 1 42rem;
+    padding-right: 5rem;
+    padding-bottom: 5rem;
+}
+.about .video video{
+    width: 100%;
+    -webkit-box-shadow:4rem 4rem 0 rgba(0, 0, 0, 0.1);
+    box-shadow:4rem 4rem 0 rgba(0, 0, 0, 0.1);
+}
+
 .about .content{
     -webkit-box-flex: 1;
     -ms-flex: 1 1 42rem;
